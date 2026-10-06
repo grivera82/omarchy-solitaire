@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "grivera.solitaire",
+  "name": "Solitaire",
+  "version": "1.0.0",
+  "author": "grivera",
+  "license": "MIT",
+  "description": "An elegant Klondike card table: draw one or three, daily deals, drag and drop, keyboard play, hints, undo and saved games.",
+  "kinds": ["service", "bar-widget"],
+  "entryPoints": {"service": "Service.qml", "barWidget": "Panel.qml"},
+  "barWidget": {
+    "displayName": "Solitaire",
+    "description": "A little card table, right in your desktop",
+    "category": "Games",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}
