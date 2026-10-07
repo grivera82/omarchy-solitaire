@@ -3,6 +3,10 @@
 An ivory-and-felt Klondike table for Omarchy, with a midnight theme when the
 evening calls for it. Open the spade in your bar and pick up where you left off.
 
+[![Solitaire demo: card movement, undo and redo, hints, and a daily deal](docs/solitaire-demo.gif)](https://github.com/grivera82/omarchy-solitaire/blob/main/docs/solitaire-demo.mp4)
+
+[Watch or download the 24-second video](https://github.com/grivera82/omarchy-solitaire/raw/refs/heads/main/docs/solitaire-demo.mp4).
+
 ![The Solitaire card table](preview.png)
 
 ## Play
