@@ -1,4 +1,4 @@
-# Solitaire
+# <img src="icon.svg" width="44" height="44" alt=""> Solitaire
 
 An ivory-and-felt Klondike table for Omarchy, with a midnight theme when the
 evening calls for it. Open the spade in your bar and pick up where you left off.

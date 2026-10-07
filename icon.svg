@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title"><title id="title">Solitaire icon</title><rect x="16" y="16" width="480" height="480" rx="112" fill="#153d32"/>
+<g transform="rotate(-15 204 258)"><rect x="99" y="101" width="210" height="312" rx="25" fill="#d9bd7c"/><rect x="109" y="111" width="190" height="292" rx="17" fill="#f0eadb"/><path d="m204 182 48 76-48 76-48-76z" fill="#c74359"/></g>
+<g transform="rotate(12 305 270)"><rect x="205" y="113" width="205" height="310" rx="25" fill="#102d27"/><rect x="214" y="122" width="187" height="292" rx="19" fill="#f0eadb"/>
+<path d="M307 188c-21 28-61 52-61 86 0 38 45 48 61 18 16 30 61 20 61-18 0-34-40-58-61-86zm-11 101c1 32-4 46-23 60h68c-19-14-24-28-23-60z" fill="#153d32"/>
+<path d="m241 141 11 17-11 17-11-17z" fill="#153d32"/></g></svg>
